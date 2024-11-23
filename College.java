@@ -1,6 +1,7 @@
 Class College
   {
-    int a =10;
-    int b =20;
-  System.out.println("Mahadev");
+    String name="Shiva";
+    System.out.println("Mahadev");
+    System.out.println(name);
+
   }
