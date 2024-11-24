@@ -7,4 +7,6 @@ Class College
     int k =12;
     System.out.println("Mahadev");
     System.out.println("Shiva");
+    System.out.println("Mahadev");
+    String name : Mahadev;
   }
