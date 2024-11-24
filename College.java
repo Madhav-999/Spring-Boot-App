@@ -6,4 +6,5 @@ Class College
     int j=9;
     int k =12;
     System.out.println("Mahadev");
+    System.out.println("Shiva");
   }
