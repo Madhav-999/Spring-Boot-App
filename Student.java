@@ -1,10 +1,10 @@
 Class Student
   {
 
-   int i=12;
-   String name ="Mahadev";
    
 
+   int i=12;
+   String name ="Mahadev";
   
   
 
