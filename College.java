@@ -4,4 +4,5 @@ Class College
     System.out.println("Mahadev");
     System.out.println(name);
     int j=9;
+    int k =12;
   }
