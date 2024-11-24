@@ -10,9 +10,22 @@ Class College
     System.out.println("Mahadev");
     String name : Mahadev;
 
+
 	public boolean m2()
 	  {
 
 		//logic
 	  }
+
+  
+     public String m1()
+	  {
+		 String name ="Mahadev";
+		 String name ="Shiva";
+         String name ="Maha";
+		 //Logic 
+	  }
+
+
+
   }
